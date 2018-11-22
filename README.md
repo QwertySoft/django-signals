@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-# django-polls-app
-=======
 # django-signals
->>>>>>> 91a33cef0a86fc89dc23c6fbe2b972ffcf005423
+Ejemplo de uso de signals en Django
+
+# Install dependencies
+    pip install django
+    
+# Run
+    python manage.py run
