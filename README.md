@@ -6,3 +6,4 @@ Ejemplo de uso de signals en Django
     
 # Run
     python manage.py run
+    # Save an instance and see the output terminal
